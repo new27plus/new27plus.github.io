@@ -32,7 +32,7 @@ export default navbar([
     children: [
       {
         text: "官方文档集合",
-        link: "",
+        link: "/official_set.md",
         icon: "book"
       },
     ]

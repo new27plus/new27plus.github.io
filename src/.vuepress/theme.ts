@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "penkk27",
-    url: "https://mister-hope.com",
+    // url: "https://mister-hope.com",
   },
 
   iconAssets: "iconfont",
@@ -31,7 +31,7 @@ export default hopeTheme({
   // 博客相关
   blog: {
     name:"pengkk27",
-    avatar: "/assets/avatar.png",
+    avatar: "/avatar.png",
     roundAvatar: true,
     description: "一个菜鸟开发者",
     intro: "/intro.html",
