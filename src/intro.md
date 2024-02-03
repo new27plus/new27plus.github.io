@@ -2,6 +2,8 @@
 icon: circle-info
 cover: /assets/images/cover3.jpg
 timeline: false
+# 此页面会在文章列表置顶
+sticky: false
 ---
 
 # 介绍页
